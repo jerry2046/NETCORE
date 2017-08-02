@@ -1,0 +1,2 @@
+# NETCORE
+.NETCore项目
